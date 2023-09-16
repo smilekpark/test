@@ -55,7 +55,7 @@ classDiagram
     Booking "0..*" -- "1..*" Hotel : includes >
     Booking "0..*" -- "1..*" Flight : includes >
 
-### 다이어그램
+
 
 sequenceDiagram
     participant User
